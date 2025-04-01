@@ -1,0 +1,13 @@
+.wrapper > .inner {
+	opacity: 1 !important;
+	transform: none !important;
+}
+
+#sidebar > .inner {
+	opacity: 1 !important;
+}
+
+#sidebar nav > ul > li {
+	transform: none !important;
+	opacity: 1 !important;
+}
